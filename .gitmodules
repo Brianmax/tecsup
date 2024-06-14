@@ -1,0 +1,6 @@
+[submodule "taller"]
+	path = taller
+	url = git@github.com:Brianmax/tallerBackend.git
+[submodule "front"]
+	path = front
+	url = git@github.com:Brianmax/tallerTecsup.git
